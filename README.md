@@ -1,21 +1,16 @@
-# Hi there 👋, I'm Andre
+# Hi there, I'm Andre 👋
 
 > Computer Science student in University of Maringa - Brazil
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="laptop and a coffee" width="425px" align="right">
-
 ### Profile
 
-- 🌱 I’m currently learning sass, typescript and react
-- 🤝 I’m looking to collaborate on front-end projects
-- 🐶 I have a dog named Luke
-- 🥋 I'm purple belt in judo
-- 🏀 I love to play basketball and soccer
-- 📬 How to reach me: andresch.dev@gmail.com
+- 🌱 Learning SSR, tests and CSS frameworks
+- 📚 Reading Clean Code and Clean Architecture
+- 🤝 Looking to collaborate on front-end projects
+- 📬 How to reach me: <andresch.dev@gmail.com>
 
-### Languages and tools
+### Knowledge
 
-[![HTML5](https://img.shields.io/badge/-HTML5-7a21ca?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
-[![CSS3](https://img.shields.io/badge/-CSS3-7a21ca?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
-[![Javascript](https://img.shields.io/badge/-Javascript-7a21ca?style=for-the-badge&logo=javascript&logoColor=white)](https://www.w3schools.com/js/)
-[![Git](https://img.shields.io/badge/-Git-7a21ca?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/book/en/v2)
+[![TypeScript](https://img.shields.io/badge/typescript-1F1F1F?style=for-the-badge&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/react-1F1F1F?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Git](https://img.shields.io/badge/Git-1F1F1F?style=for-the-badge&logo=git&logoColor=F05032)](https://git-scm.com/book/en/v2)
