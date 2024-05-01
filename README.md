@@ -1,17 +1,19 @@
-# Hi there, I'm Andre 👋
+# Hi there, I'm Andre
 
-Computer Science student in University of Maringa - Brazil
+Backend Developer and Computer Science student
 
-### Profile
+### 📚 My knowledge
 
-- 🌱 Learning tests and architecture
-- 🤝 Looking to collaborate on back-end projects
-- 📬 How to reach me: <andresch.dev@gmail.com>
+- Clean Code
+- Clean Architeture
+- Automated tests
 
-### Knowledge
+### ☕ My Stack
 
-- `Java`
-- `SQL`
-- `Node`
-- `TypeScript`
-- `React`
+- Java
+- Spring
+- Hibernate
+- SQL
+- React
+- TypeScript
+- Node
