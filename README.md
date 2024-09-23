@@ -1,19 +1,6 @@
-# Hi there, I'm Andre
+# Andre Schlichting
 
-Backend Developer and Computer Science student
+Software developer dedicated to creating impactful solutions that deliver value and quality.
 
-### 📚 My knowledge
-
-- Clean Code
-- Clean Architeture
-- Automated tests
-
-### ☕ My Stack
-
-- Java
-- Spring
-- Hibernate
-- SQL
-- React
-- TypeScript
-- Node
+I have experience in REST APIs using Java and Spring, relational databases like
+MySQL and Postgres, and web applications built with React and TypeScript.
